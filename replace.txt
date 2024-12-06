@@ -1,2 +1,0 @@
-ECHO is on.
-GHokkul <email@example.com>==>Shreya <shreyachidirala@gmail.com>
